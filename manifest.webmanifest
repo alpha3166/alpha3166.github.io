@@ -1,7 +1,14 @@
 {
   "name": "アルファのブログ",
+  "short_name": "アルファ",
+  "description": "ことば、計算機、SF、ヒコーキ",
   "icons": [
-    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
-  ]
+    {
+      "src": "/favicon.jpg",
+      "type": "image/png",
+      "sizes": "480x480"
+    }
+  ],
+  "lang": "ja",
+  "start_url": "/blog/"
 }
